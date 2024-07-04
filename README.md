@@ -72,8 +72,8 @@ To view the live project, simply click on the following hosted link:
 
 ## Contact
 
-- **Your Name** - [Your Email](mailto:your-email@example.com)
-- **GitHub** - [Your GitHub Profile](https://github.com/your-username)
-- **LinkedIn** - [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **Your Name** - [Your Email](mailto:aditya54301@gmail.com)
+- **GitHub** - [Your GitHub Profile](https://github.com/Aditya01JS)
+- **LinkedIn** - [Your LinkedIn Profile](https://www.linkedin.com/in/aditya-shinde-21291b1a4?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 Thank you for checking out my project!
